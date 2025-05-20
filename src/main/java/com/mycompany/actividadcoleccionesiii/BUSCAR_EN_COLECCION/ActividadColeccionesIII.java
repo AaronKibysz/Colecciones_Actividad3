@@ -31,6 +31,5 @@ public class ActividadColeccionesIII {
             System.out.println("Se encontró: " + a);
         }
         
-        //PUNTO B
     }
 }
